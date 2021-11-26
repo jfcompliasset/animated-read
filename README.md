@@ -1,1 +1,1 @@
-# animated-read
+# Animated Read
